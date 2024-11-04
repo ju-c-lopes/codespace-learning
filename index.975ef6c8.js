@@ -28771,12 +28771,12 @@ const imageAltText = "desktop with work tools like a laptop, a book and a light 
     {
         title: "Photography Project Website",
         description: "An old project initiated in 2018 to show photography works from a friend. It was made with HTML, CSS and JavaScript.",
-        url: "https://ju-c-lopes.github.io/photography-project/"
+        url: "https://ju-c-lopes.github.io/projeto-fotografia/"
     },
     {
         title: "TicTacToe Javascript Game",
         description: "A simple webpage game made with HTML, CSS and JavaScript to play TicTacToe. It was made to practice several concepts of algorithms using JavaScript.",
-        url: "https://ju-c-lopes.github.io/tic-tac-toe/"
+        url: "https://ju-c-lopes.github.io/TicTacToe---JavaScript/"
     }, 
 ];
 const Portfolio = ()=>{
