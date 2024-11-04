@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/workdesk.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "desktop with work tools like a laptop, a book and a light bulb";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Classes management system in order to help teachers accomplish BNCC goals applications",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A Web Application made with Django to register classes, helping teachers and academic coordinators to understand how the BNCC has been applied.",
+    url: "https://github.com/ju-c-lopes/aplicacao-django",
   },
   {
-    title: "Web Development for Beginners",
+    title: "A Linux Shell Script to facilitate the choices of virtual environments in Python",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This script read all installed virtual environments and let you choose which one to activate whenever you open a terminal window.",
+    url: "https://github.com/ju-c-lopes/virtual-environment-choice",
   },
   {
-    title: "My Resume Site",
+    title: "Photography Project Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "An old project initiated in 2018 to show photography works from a friend. It was made with HTML, CSS and JavaScript.",
+    url: "https://ju-c-lopes.github.io/photography-project/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "TicTacToe Javascript Game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A simple webpage game made with HTML, CSS and JavaScript to play TicTacToe. It was made to practice several concepts of algorithms using JavaScript.",
+    url: "https://ju-c-lopes.github.io/tic-tac-toe/",
   },
 ];
 
